@@ -1,0 +1,5 @@
+*.bag
+*~
+data/
+output/
+mot_benchmark/
