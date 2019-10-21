@@ -104,6 +104,6 @@ ubuntuone-client-data==14.4
 urllib3==1.15.1
 virtualenv==15.1.0
 webencodings==0.5
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 wxPython==3.0.2.0
 wxPython-common==3.0.2.0
