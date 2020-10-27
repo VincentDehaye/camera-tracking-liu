@@ -9,7 +9,7 @@ catkin==0.7.7
 catkin-pkg==0.3.9
 catkin-pkg-modules==0.3.9
 chardet==2.3.0
-cryptography==1.7.1
+cryptography==3.2
 cycler==0.10.0
 defusedxml==0.4.1
 docutils==0.13.1
