@@ -48,7 +48,7 @@ pluginlib==1.11.0
 protobuf==3.4.0
 pyasn1==0.1.9
 pycrypto==2.6.1
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.22.0
 pyOpenSSL==16.2.0
 pyparsing==2.2.0
