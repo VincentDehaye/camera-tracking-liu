@@ -101,7 +101,7 @@ tensorflow-gpu==1.3.0
 tensorflow-tensorboard==0.1.8
 topic-tools==1.13.2
 ubuntuone-client-data==14.4
-urllib3==1.15.1
+urllib3==1.26.5
 virtualenv==15.1.0
 webencodings==0.5
 Werkzeug==0.12.2
