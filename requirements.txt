@@ -25,7 +25,7 @@ genlisp==0.4.16
 genmsg==0.5.9
 gennodejs==2.0.1
 genpy==0.6.6
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.2
 ipaddress==1.0.17
 keyring==10.3.1
